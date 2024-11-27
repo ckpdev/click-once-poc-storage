@@ -86,7 +86,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>DBPFec9s+ZpXUNu2h4I4Ymiucgrg2jHqTDn6dcSkxLg=</dsig:DigestValue>
+      <dsig:DigestValue>TfsM4XLuziHWFs0adRgE/p4oj85aLzTeubXD+B2ofww=</dsig:DigestValue>
     </hash>
   </file>
   <file name="click-once-poc.runtimeconfig.json" size="525">
